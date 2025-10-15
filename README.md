@@ -99,6 +99,8 @@ Nahid aims to contribute to **Bangladesh’s agricultural development** through
 
 [![ScholarGPS](https://img.shields.io/badge/ScholarGPS-00A9E0?style=for-the-badge&logo=scholargps&logoColor=white)](https://scholargps.com/scholars/78327696174383/md-nahid-mahmud)
 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nahidmahmudn)
+
 
 
 ⭐ *“Dedicated to advancing sustainable agriculture and environmental harmony in Bangladesh.”* 🌿
