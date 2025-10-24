@@ -66,7 +66,7 @@ Nahid aims to contribute to **Bangladesh’s agricultural development** through
 5. **Md. Nahid Mahmud, Nuzhat Tabassum Muniza, Rafiya Raidah.** (2025). *Nano Fertilizer: A Revolution in Precision Agriculture and Crop Productivity.*  
    **Big Data in Agriculture**, 7(2): 62–72.
 
-6. **Md. Nahid Mahmud, Asif Ahmed, Shaila Sharmin, M. Rehan Dastagir, Muhammad Khizar Hayat, Gazi Faria Jahan Mim, Abdullah Al Kafi, and Tasnim Tahara.** (2025). *A review on seasonal variation and index-based heavy metal pollution in DEPZ agricultural soils.* **Next Research**, 2(4), 100953.[https://doi.org/10.1016/j.nexres.2025.100953](https://doi.org/10.1016/j.nexres.2025.100953)
+6. **Md. Nahid Mahmud, Asif Ahmed, Shaila Sharmin, M. Rehan Dastagir, Muhammad Khizar Hayat, Gazi Faria Jahan Mim, Abdullah Al Kafi, and Tasnim Tahara.** (2025). *A review on seasonal variation and index-based assessment of heavy metal contamination in agricultural soils near Dhaka Export Processing Zone (DEPZ), Bangladesh.* **Next Research**, 2(4), 100953.[https://doi.org/10.1016/j.nexres.2025.100953](https://doi.org/10.1016/j.nexres.2025.100953)
 
    
 
